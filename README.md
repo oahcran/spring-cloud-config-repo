@@ -1,4 +1,4 @@
-# spring-cloud-samples-cook-config
+# spring-cloud-samples-config
 
 * Reference
 
